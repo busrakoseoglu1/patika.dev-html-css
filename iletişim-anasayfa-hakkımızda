@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>anasayfa - Firma İsmi</title>
+  </head>
+  <body>
+    <!--navbar start-->
+    <header>
+      <nav>
+        <ul>
+          <li><a href="anasayfa.html">Ana Sayfa</a></li>
+          <li><a href="about-us.html">Hakkımızda</a></li>
+          <li><a href="contact.html">İletişim</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!--navbar end-->
+
+    <!-- content - start -->
+    <section id="content">
+      <article>
+        <h1>First</h1>
+        <img src="https://picsum.photos/seed/picsum/600/300" alt="firstPhoto" />
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis
+          tenetur corporis magni totam consequuntur labore!
+        </p>
+        <p>Lorem ipsum dolor sit amet.</p>
+        <p>Ipsum, corporis! Soluta, itaque voluptatibus.</p>
+        <p>Eligendi, accusantium. Reprehenderit, eveniet alias!</p>
+        <hr />
+      </article>
+      <article>
+        <h1>Second</h1>
+        <img src="https://picsum.photos/id/37/600/300" alt="secondPhoto" />
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis
+          tenetur corporis magni totam consequuntur labore!
+        </p>
+        <p>Lorem ipsum dolor sit amet.</p>
+        <p>Ipsum, corporis! Soluta, itaque voluptatibus.</p>
+        <p>Eligendi, accusantium. Reprehenderit, eveniet alias!</p>
+        <ol>
+          <li>Lorem, ipsum dolor.</li>
+          <li>Perspiciatis, reprehenderit debitis?</li>
+          <li>Expedita, veniam reprehenderit.</li>
+        </ol>
+        <hr />
+      </article>
+      <article>
+        <h1>Third</h1>
+        <img src="https://picsum.photos/id/23/600/300" alt="thirdPhoto" />
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis
+          tenetur corporis magni totam consequuntur labore!
+        </p>
+        <p>Lorem ipsum dolor sit amet.</p>
+        <p>Ipsum, corporis! Soluta, itaque voluptatibus.</p>
+        <ul>
+          <li>Lorem, ipsum.</li>
+          <li>Voluptates, reprehenderit.</li>
+          <li>Eligendi, in.</li>
+        </ul>
+        <p>Eligendi, accusantium. Reprehenderit, eveniet alias!</p>
+        <hr />
+      </article>
+    </section>
+    <!-- content - end -->
+    <!--footer - start-->
+    <nav>
+      <ul>
+        <li><a href="anasayfa.html">Ana Sayfa</a></li>
+        <li><a href="about-us.html">Hakkımızda</a></li>
+        <li><a href="contact.html">İletişim</a></li>
+      </ul>
+    </nav>
+    Tüm Hakları Saklıdır.
+    <!--footer end-->
+  </body>
+</html>
+-------------------------------------------------
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us -Firma İsmi</title>
+</head>
+<body>
+    <!--navbar start-->
+    <header>
+        <nav>
+          <ul>
+            <li><a href="anasayfa.html">Ana Sayfa</a></li>
+            <li><a href="about-us.html">Hakkımızda</a></li>
+            <li><a href="contact.html">İletişim</a></li>
+          </ul>
+        </nav>
+      </header>
+      <!--navbar end-->
+  
+      <!-- content - start -->
+      <section id="content">
+        <article>
+          <h1>HAKKIMIZDA</h1>
+          <img src="https://picsum.photos/seed/picsum/600/300" alt="firstPhoto" />
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis
+            tenetur corporis magni totam consequuntur labore!
+          </p>
+          <p>Lorem ipsum dolor sit amet.</p>
+          <p>Ipsum, corporis! Soluta, itaque voluptatibus.</p>
+          <p>Eligendi, accusantium. Reprehenderit, eveniet alias!</p>
+          <hr />
+        </article>
+      </section>
+      <!-- content - end -->
+      <!--footer - start-->
+      <nav>
+        <ul>
+          <li><a href="anasayfa.html">Ana Sayfa</a></li>
+          <li><a href="about-us.html">Hakkımızda</a></li>
+          <li><a href="contact.html">İletişim</a></li>
+        </ul>
+      </nav>
+      Tüm Hakları Saklıdır.
+      <!--footer end-->
+</body>
+</html>
+  --------------------------------------------------------------------
+  <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact - Firma İsmi</title>
+  </head>
+  <body>
+    <!--navbar start-->
+    <header>
+      <nav>
+        <ul>
+          <li><a href="anasayfa.html">Ana Sayfa</a></li>
+          <li><a href="about-us.html">Hakkımızda</a></li>
+          <li><a href="contact.html">İletişim</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!--navbar end-->
+
+    <!-- content - start -->
+    <section id="content">
+      <article>
+        <h1>iletişim</h1>
+        <img src="https://picsum.photos/id/3/600/300" alt="firstPhoto" />
+        <p>Adres :</p>
+        <address>
+          Zemin İstanbul <br />
+          Şahkulu, Şişhane Metro Durağı, Meşrutiyet Caddesi, No:125 <br />
+          Beyoğlu/İSTANBUL
+        </address>
+        <ul>
+          <li><a href="tel:02124568945">0212 456 89 45</a></li>
+          <li><a href="mailto:info@kodluyoruz.org">info@kodluyoruz.org</a></li>
+        </ul>
+        <hr />
+      </article>
+    </section>
+    <!-- content - end -->
+    <!--footer - start-->
+    <nav>
+      <ul>
+        <li><a href="anasayfa.html">Ana Sayfa</a></li>
+        <li><a href="about-us.html">Hakkımızda</a></li>
+        <li><a href="contact.html">İletişim</a></li>
+      </ul>
+    </nav>
+    Tüm Hakları Saklıdır.
+    <!--footer end-->
+  </body>
+</html>
