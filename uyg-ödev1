@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Browni Tarifi</title>
+  </head>
+  <body>
+    <header>
+      <h1>
+        <i><font color="brown">...Browni...</font></i>
+      </h1>
+    </header>
+    <section id="content">
+      <b><font color="brown">Browni</font></b> ya da bizim genel olarak
+      yazdığımız adıyla browni'den bahsedeceğiz bugün. İçerisinde az un olması
+      sebebiyle
+      <b
+        ><font color="black"
+          >kıvamı bildiğimiz keklerden ve tatlılardan çok daha farklı.</font
+        ></b
+      ><b> <font color="brown">Çikolata</font></b> tadının buram buram
+      hissedildiği bu enfes tarifin kıvamı hafif nemli olur. Yerken ağızda kuru
+      bir tat bırakmaz. Brownie yapılırken düşülen en büyük hataların başında,
+      harca <b><font color="black">çok fazla un koymak</font> </b>ve uzun süre
+      pişirmek geliyor. Gelin biz size
+      <b><font color="brown"> kek </font></b>yapmanın püf noktalarıyla güzelce
+      anlatalım. Şimdiden afiyet olsun! <br /><br />
+
+      <nav>
+        <li>
+          <a href="https://yemek.com/tarif/gercek-browni/">Tarif : yemek com</a>
+        </li>
+      </nav>
+      <br />
+
+      <article style="text-align: center">
+        <u>Kaç Kişilik : 8</u> | <u>Hazırlama Süresi : 15 dk</u> |
+        <u>Pişirme Süresi : 30 dk</u>
+        <h2>
+          <!--başlık arka plan rengi ve yazının rengi-->
+          <span style="background-color: brown; color: white"
+            ><i>Gerçek Brownie Tarifi İçin Malzemeler</i></span
+          >
+        </h2>
+
+        <ul style="list-style-position: inside">
+          <li>300 gram bitter çikolata (iri parçalanmış)</li>
+          <li>3 adet yumurta</li>
+          <li>150 gram tereyağı (10 yemek kaşığı)</li>
+          <li>1 su bardağı toz şeker</li>
+          <li>1 su bardağı un</li>
+          <li>1 paket vanilya</li>
+        </ul>
+
+        <h2>
+          <span style="background-color: brown; color: white"
+            ><i>Browni Nasıl Yapılır? </i></span
+          >
+        </h2>
+        <ol style="list-style-position: inside">
+          <li>Tereyağını minik bir sos tenceresinin içerisinde eritin.</li>
+          <li>
+            Eridiği gibi ocaktan alın ve tereyağınız henüz sıcakken parça parça
+            böldüğünüz çikolataları içerisine aktarın. Tereyağının sıcağı ile
+            erimesini sağlayın.
+          </li>
+          <li>
+            Ardından tereyağlı çikolata karışımını oda sıcaklığında soğuması
+            için bir kenara alın.
+          </li>
+          <li>
+            Bir kabın içerisine yumurtaları alın, şekeri de ilave ederek güzelce
+            çırpın.
+          </li>
+          <li>
+            Çırpılan şekerle yumurtaların üzerine azar azar tereyağlı çikolatalı
+            karışımı aktarın ve karıştırmaya devam edin.
+          </li>
+          <li>
+            Tüm karışımı ekleyip karıştırdıktan sonra un ve vanilyayı eleyerek
+            üzerine ilave edin.
+          </li>
+          <li>
+            Spatula yardımıyla brownie harcını tüm malzemeler birleşinceye dek
+            katlayarak karıştırın.
+          </li>
+          <li>
+            Ardından yağlanmış ya da pişirme kağıdı serilmiş 20 cm'lik kare kek
+            kalıbına hazırladığınız karışımı aktarın. Üst kısmını spatulayla
+            düzeltin.
+          </li>
+          <li>
+            160 derecede önceden ısıtılmış fansız fırında 30-35 dakika kadar
+            pişirin. Üzeri hafif çatlak bir görünüm alınca fırından çıkarın ve
+            oda sıcaklığında en az 1 saat kadar dinlendirin.
+          </li>
+          <li>
+            Dinlendikçe kıvamı güzelleşecektir. Dinlendikten sonra dilimleyerek
+            servis edebilirsiniz. Afiyet olsun!
+          </li>
+        </ol>
+      </article>
+      <article style="text-align: right">Afiyet Olsun...</article>
+    </section>
+  </body>
+</html>
