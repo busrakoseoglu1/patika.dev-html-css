@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Google</title>
+    <style>
+      * {
+        margin: 0; /**/
+      }
+      body {
+        width: 90%; /*body kısmı ekranın 90% sini kaplasın*/
+        margin: auto;
+      }
+      .logo {
+        text-align: center;
+        margin-top: 100px; /*üst kısımdan 100px alta kay*/
+      }
+      .form {
+        margin-top: 2px; /*üst kısımdan 2px alta kay*/
+        text-align: center; /*ortaladık*/
+        background-color: rgb(224, 220, 220);
+        padding-top: 2%; /*içerik arasındaki boşluk üst*/
+        padding-bottom: 2%; /*içerik arasındaki boşluk alt*/
+      }
+      .query {
+        border-radius: 3px; /*ovallik*/
+        width: 500px;
+        height: 30px;
+      }
+      .bottom-left {
+        text-align: center;
+        background-color: #7ee5da;
+        flex: 1.35;
+      }
+      .bottom-middle {
+        text-align: center;
+        background-color: #70ccc2;
+        flex: 0.75;
+        font-size: small;
+      }
+      .bottom-right {
+        text-align: center;
+        background-color: #62b3aa;
+        flex: 1.6;
+        font-size: small;
+        margin-right: 0;
+        padding: 1px 0 0 0;
+        height: 74px;
+      }
+      .bottom-left,
+      .bottom-middle,
+      .bottom-right {
+        text-align: center;
+        padding: 10px 0;
+        height: 55px;
+        margin-right: 1px;
+      }
+      .footer {
+        text-align: center;
+        margin-top: 1%;
+      }
+
+      .bottom {
+        display: flex;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="logo">
+      <img
+        src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg"
+        alt="Google Beta!"
+      />
+    </div>
+    <form class="form">
+      <p style="font-size: 25px">Search the web using Google!</p>
+      <input type="search" class="query" />
+      <br />
+      <button type="submit" class="submit-button">Google Search</button>
+      <button class="button-2">I'm Feeling Lucky</button>
+    </form>
+    <div class="bottom">
+      <div class="bottom-left">
+        Special Searches <br />
+        <a href="#">Stanford Search</a> <br />
+        <a href="#">Linux Search</a>
+      </div>
+      <div class="bottom-middle">
+        <a href="#">Help!</a> <br />
+        <a href="#">About Google!</a> <br />
+        <a href="#">Comapany Info</a> <br />
+        <a href="#">Google! Logos</a>
+      </div>
+      <div class="bottom-right">
+        Get Google! Updates Monthly <br />
+        <form class="form2">
+          <input type="search" class="query2" />
+          <br />
+          <button type="submit" class="subscribe">Subscribe</button>
+          <a href="https://web.archive.org/">Archive</a>
+        </form>
+      </div>
+    </div>
+    <footer class="footer">Copyright @1998 Google Inc.</footer>
+  </body>
+</html>
